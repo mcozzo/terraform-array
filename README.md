@@ -2,8 +2,8 @@
 
 ## Because shit's broken
 
-https://github.com/hashicorp/terraform/issues/2114
-https://www.terraform.io/docs/configuration/resources.html
+* https://github.com/hashicorp/terraform/issues/2114
+* https://www.terraform.io/docs/configuration/resources.html
 
 ## What I want to work:
 ```
